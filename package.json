@@ -1,0 +1,23 @@
+{
+  "name": "alvaradojc",
+  "version": "1.0.0",
+  "description": "Web Developer Portfolio Site for Juan Alvarado",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvajc/alvaradojc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvajc/alvaradojc/issues"
+  },
+  "homepage": "https://github.com/alvajc/alvaradojc#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
