@@ -1,2 +1,2 @@
 # alvaradojc
-Professional Portfolio Website for Juan Alvarado
+Web Developer Portfolio Site for Juan Alvarado
