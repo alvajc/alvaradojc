@@ -1,0 +1,64 @@
+.heroJumbotron {
+  min-height: 400px;
+  margin-bottom: 0px;
+  background-color: #895A33;
+
+}
+
+.heroText {
+  font-family: 'permanent marker', helvetica, sans-serif;
+  color: white;
+  margin-top: 50px;
+}
+
+.profilePic {
+  margin-top: 20px;
+}
+
+.aboutMeJumbotron {
+  min-height: 300px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: #EFD0B7;
+}
+
+.aboutMe {
+  font-family: 'permanent marker', helvetica, sans-serif;
+}
+
+.aboutMeText {
+  font-family: helvetica, sans-serif;
+}
+
+.profilePic {
+  margin-top: 30px;
+}
+
+.techJumbotron {
+  min-height: 400px;
+  background-color: white;
+  margin-top: 0px;
+}
+.techHeader {
+  font-family: 'permanent marker', helvetica, sans-serif;
+}
+
+.logos {
+  margin-bottom: 30px;
+}
+
+.angular {
+  margin-top: 15px;
+}
+
+.express {
+  margin-top: 20px;
+}
+
+.logosThree {
+  margin-top: 30px;
+}
+
+.jquery {
+  padding-top: 23px;
+}
