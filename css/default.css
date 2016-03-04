@@ -81,7 +81,7 @@
 }
 
 .bootstrap {
-  margin-top: -20px;
+  margin-top: -10px;
 }
 
 .projectsJumbotron {
@@ -135,12 +135,11 @@
 }
 .linkedInLink {
   color: black;
-  margin-right:20px;
 }
 
 .githubLink {
   color: black;
-  margin-left: 40px;
+  margin-left: 60px;
 }
 
 .footer {
