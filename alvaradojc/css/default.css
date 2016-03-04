@@ -1,0 +1,154 @@
+.helvetica {
+  font-family: helvetica, sans-serif;
+}
+
+.heroJumbotron {
+  min-height: 400px;
+  margin-bottom: 0px;
+  background-color: #895A33;
+
+}
+
+.heroText {
+  font-family: 'permanent marker', helvetica, sans-serif;
+  color: white;
+  margin-top: 50px;
+}
+
+#webDev {
+  font-family: helvetica, sans-serif;
+}
+
+.profilePic {
+  margin-top: 20px;
+}
+
+.aboutMeJumbotron {
+  min-height: 300px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: white;
+}
+
+.aboutMe {
+  font-family: 'permanent marker', helvetica, sans-serif;
+}
+
+.aboutMeText {
+  font-family: helvetica, sans-serif;
+}
+
+.profilePic {
+  margin-top: 30px;
+}
+
+.techJumbotron {
+  min-height: 400px;
+  background-color: #EFD0B7;
+  margin-top: 0px;
+}
+.techHeader {
+  font-family: 'permanent marker', helvetica, sans-serif;
+}
+
+.logos {
+  margin-bottom: -40px;
+  padding: 75px 75px 75px 75px;
+  margin-top: -20px;
+}
+
+.angular {
+  margin-top: 15px;
+}
+
+.express {
+  margin-top: 20px;
+}
+
+.logosThree {
+  margin-top: 30px;
+}
+
+.react {
+  margin-bottom: -40px;
+}
+
+.jquery {
+  margin-bottom: 20px;
+}
+.github {
+ margin-top: -10px;
+}
+
+.bootstrap {
+  margin-top: -10px;
+}
+
+.projectsJumbotron {
+  margin-top: -30px;
+  min-height: 150px;
+  background-color: #895A33;
+  font-family: 'permanent marker', helvetica, sans-serif;
+  color: white;
+}
+
+.projectDescription {
+  margin-top: 30px;
+}
+
+.projectPic {
+  margin-top: 20px;
+}
+
+.bookRecycleButton {
+  margin-top: 25px;
+  background-color: #895A33;
+  color: white;
+}
+
+.bookRecycleText {
+  padding-top: 10px;
+}
+
+.foodGradesText {
+  padding-top: 20px;
+}
+.adsText {
+  padding-top: 30px;
+}
+
+.ads {
+  margin-bottom: 80px;
+}
+
+.contactJumbotron {
+  min-height: 400px;
+  background-color: #EFD0B7;
+}
+
+.contactHeader {
+  font-family: 'permanent marker', helvetica, sans-serif;
+}
+
+.socialLinks {
+  margin-top: 30px;
+}
+.linkedInLink {
+  color: black;
+}
+
+.githubLink {
+  color: black;
+  margin-left: 60px;
+}
+
+.footer {
+  margin-top: -30px;
+  margin-bottom: -30px;
+  background-color: #895A33;
+}
+
+.copyright {
+  color: white;
+  margin-top: 15px
+}
