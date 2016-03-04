@@ -80,3 +80,28 @@
   font-family: 'permanent marker', helvetica, sans-serif;
   color: white;
 }
+
+.projectDescription {
+  margin-top: 30px;
+}
+
+.projectPic {
+  margin-top: 20px;
+}
+
+.bookRecycleButton {
+  margin-top: 25px;
+  background-color: #895A33;
+  color: white;
+}
+
+.bookRecycleText {
+  padding-top: 10px;
+}
+
+.foodGradesText {
+  padding-top: 20px;
+}
+.adsText {
+  padding-top: 30px;
+}
