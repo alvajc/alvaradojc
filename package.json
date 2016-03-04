@@ -1,6 +1,10 @@
 {
   "name": "alvaradojc",
   "version": "1.0.0",
+  "engines": {
+    "node": "5.4.1",
+    "npm": "3.3.12"
+  },
   "description": "Web Developer Portfolio Site for Juan Alvarado",
   "main": "server.js",
   "scripts": {
