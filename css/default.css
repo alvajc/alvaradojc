@@ -69,8 +69,19 @@
   margin-top: 30px;
 }
 
+.react {
+  margin-bottom: -40px;
+}
+
 .jquery {
-  padding-top: 23px;
+  margin-bottom: 20px;
+}
+.github {
+ margin-top: -10px;
+}
+
+.bootstrap {
+  margin-top: -20px;
 }
 
 .projectsJumbotron {
@@ -104,4 +115,41 @@
 }
 .adsText {
   padding-top: 30px;
+}
+
+.ads {
+  margin-bottom: 80px;
+}
+
+.contactJumbotron {
+  min-height: 400px;
+  background-color: #EFD0B7;
+}
+
+.contactHeader {
+  font-family: 'permanent marker', helvetica, sans-serif;
+}
+
+.socialLinks {
+  margin-top: 30px;
+}
+.linkedInLink {
+  color: black;
+  margin-right:20px;
+}
+
+.githubLink {
+  color: black;
+  margin-left: 40px;
+}
+
+.footer {
+  margin-top: -30px;
+  margin-bottom: -30px;
+  background-color: #895A33;
+}
+
+.copyright {
+  color: white;
+  margin-top: 15px
 }
