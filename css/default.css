@@ -135,11 +135,12 @@
 }
 .linkedInLink {
   color: black;
+  padding-left: -20px;
 }
 
 .githubLink {
   color: black;
-  margin-left: 60px;
+  margin-left: 80px;
 }
 
 .footer {
