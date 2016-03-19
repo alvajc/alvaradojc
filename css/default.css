@@ -3,12 +3,32 @@
 }
 
 .heroJumbotron {
-  min-height: 400px;
-  margin-bottom: 0px;
-  background-color: #895A33;
-
+  background: url('/images/imacDesk2.jpg') no-repeat;
+  background-size: cover;
+}
+@media (min-width: 768px) {
+  .heroJumbotron {
+    height: 700px;
+  }
 }
 
+@media (min-width: 1200px) {
+  .heroJumbotron {
+    height: 1200px;
+  }
+}
+@media (max-width: 414px) {
+  #name {
+    margin-top: 220px;
+  }
+}
+@media (max-width: 414px) {
+  .heroJumbotron {
+    background: url('/images/imacDesk.jpg') no-repeat;
+    background-size: cover;
+    height: 400px;
+  }
+}
 .heroText {
   font-family: 'permanent marker', helvetica, sans-serif;
   color: white;
@@ -44,11 +64,12 @@
 
 .techJumbotron {
   min-height: 400px;
-  background-color: #EFD0B7;
+  background-color: #7B7C81;
   margin-top: 0px;
 }
 .techHeader {
   font-family: 'permanent marker', helvetica, sans-serif;
+  color: white;
 }
 
 .logos {
@@ -88,7 +109,7 @@
 .projectsJumbotron {
   margin-top: -30px;
   min-height: 150px;
-  background-color: #895A33;
+  background-color: #111111;
   font-family: 'permanent marker', helvetica, sans-serif;
   color: white;
 }
@@ -124,11 +145,14 @@
 
 .contactJumbotron {
   min-height: 400px;
-  background-color: #EFD0B7;
+  background-color: #7B7C81;
 }
 
 .contactHeader {
   font-family: 'permanent marker', helvetica, sans-serif;
+}
+.contactInfo {
+  color: white;
 }
 
 .socialLinks {
@@ -147,7 +171,8 @@
 .footer {
   margin-top: -30px;
   margin-bottom: -30px;
-  background-color: #895A33;
+  background-color: #111111;
+  border-color: #111111;
 }
 
 .copyright {
